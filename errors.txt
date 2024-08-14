@@ -1,0 +1,2 @@
+ERROR   | Reason/Description
+#00001  |   Trouble pinging chosen IP or Domain
